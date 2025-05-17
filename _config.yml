@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: nonamehere
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: nonamehere
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://x.com/bearbig
+    - https://github.com/TapXWorld
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: TapXWorld
+  url: https://github.com/TapXWorld
+  email: noemailhere@noemailhere.local
