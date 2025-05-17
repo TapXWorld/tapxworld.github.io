@@ -1,3 +1,6 @@
+- type: home
+  title: Home
+  url: /
 - type: security
   title: Security
   url: /security/
