@@ -4,6 +4,12 @@
 - type: programing
   title: Programing
   url: /programing/
+- type: japanese
+  title: Japanese
+  url: /japanese/
+- type: english
+  title: English
+  url: /english/
 - type: tags
   title: Tags
   url: /tags/
