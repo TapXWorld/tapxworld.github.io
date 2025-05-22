@@ -2,16 +2,16 @@
   title: Home
   url: /
 - type: security
-  title: Security
+  title: 安全
   url: /security/
 - type: programing
-  title: Programing
+  title: 编程
   url: /programing/
 - type: japanese
-  title: Japanese
+  title: 日语
   url: /japanese/
 - type: english
-  title: English
+  title: 英语
   url: /english/
 - type: tags
   title: Tags
