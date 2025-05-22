@@ -1,18 +1,18 @@
 - type: home
-  title: Home
+  title: 主页
   url: /
 - type: security
-  title: 安全
+  title: 信息安全
   url: /security/
 - type: programing
   title: 编程
   url: /programing/
 - type: japanese
-  title: 日语
+  title: 日语学习
   url: /japanese/
 - type: english
-  title: 英语
+  title: 英语学习
   url: /english/
 - type: tags
-  title: Tags
+  title: 标签
   url: /tags/

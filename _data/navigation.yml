@@ -1,10 +1,14 @@
 - title: 主页
   url: /
+- title: 信息安全
+  url: /security/
+- title: 编程
+  url: /programing/
+- title: 日语学习
+  url: /japanese/
+- title: 英语学习
+  url: /english/
+- title: 标签
+  url: /tags/
 - title: 关于
   url: /about/
-- title: 安全
-  url: /security/
-- title: 日语
-  url: /japanese/
-- title: 英语
-  url: /english/
