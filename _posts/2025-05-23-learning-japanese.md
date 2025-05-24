@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 日语学习指南
+title: 2025-05-23 日语学习 - N1单词
 date: 2025-05-23 21:26 +0800
 tags: [日语学习]
 toc: true
