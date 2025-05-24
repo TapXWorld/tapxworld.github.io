@@ -11,6 +11,13 @@ layout: default
   {%- assign taxonomies = site.categories -%}
 {%- elsif page.type == 'tags' -%}
   {%- assign taxonomies = site.tags -%}
+  {%- assign filtered_taxonomies = "" | split: "," -%}
+  {%- for taxonomy in taxonomies -%}
+    {%- if taxonomy[0] == page.tag -%}
+      {%- assign filtered_taxonomies = filtered_taxonomies | push: taxonomy -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- assign taxonomies = filtered_taxonomies -%}
 {%- else -%}
   {%- assign taxonomies = none -%}
 {%- endif -%}
