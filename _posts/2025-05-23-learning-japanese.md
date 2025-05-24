@@ -4,6 +4,7 @@ title: 日语学习指南
 date: 2025-05-23 21:26 +0800
 tags: [日语学习]
 toc: true
+type: japanese
 ---
 
 ## 单词列表
